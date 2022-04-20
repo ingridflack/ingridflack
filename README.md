@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi! I'm Ingrid Flack 👋
+### Front-end Developer
 
-<!--
-**ingridflack/ingridflack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at [Newtail](https://www.newtail.com.br/)
+- 🌱 I have been developing applications using ReactJs, TypeScript, Next.Js, Styled Components, Redux and Context API. I use Clean Code and DRY principles to create code that is easy to maintain and self-explanatory. I use Jest, Enzyme and React Testing Library to create unit tests and Cypress for end-to-end tests.
 
-Here are some ideas to get you started:
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridflack&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridflack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://www.linkedin.com/in/ingrid-flack" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
