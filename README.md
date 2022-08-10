@@ -1,7 +1,7 @@
 ## Hi! I'm Ingrid Flack 👋
 ### Front-end Developer
 
-- 🔭 I’m currently working at [Newtail](https://www.newtail.com.br/)
+- 🔭 I’m currently working at [ZeeDog](https://www.zeedog.com.br/)
 - 🌱 I have been developing applications using ReactJs, TypeScript, Next.Js, Styled Components, Redux and Context API. I use Clean Code and DRY principles to create code that is easy to maintain and self-explanatory. I use Jest, Enzyme and React Testing Library to create unit tests and Cypress for end-to-end tests.
 
 <div>
